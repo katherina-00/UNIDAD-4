@@ -1,0 +1,14 @@
+{
+	"__class__":"manejador",
+	"paciente":[
+	    {
+		"__class__":"paciente",
+		"__atributos__":{
+		   "apellido": "Martin",
+                   "nombre": "Belen",
+		   "telefono": 1321313,
+ 		   "altura": 178,
+		   "peso": 35
+		}
+	    }]
+}
