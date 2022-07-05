@@ -1,0 +1,32 @@
+{
+    "__class__": "ManejadorProvincias",
+    "provincias": [
+        {
+            "__class__": "provincia",
+            "__atributos__": {
+                "nombre": "San Juan",
+                "capital": "San Juan",
+                "cantHabitantes": "681.055",
+                "cantDepPar": "19"
+            }
+        },
+        {
+            "__class__": "provincia",
+            "__atributos__": {
+                "nombre": "San Luis",
+                "capital": "San Luis",
+                "cantHabitantes": "432.310",
+                "cantDepPar": "9"
+            }
+        },
+        {
+            "__class__": "provincia",
+            "__atributos__": {
+                "nombre": "Catamarca",
+                "capital": "San Fernando del Valle de Catamarca",
+                "cantHabitantes": "367.828",
+                "cantDepPar": "16"
+            }
+        }
+    ]
+}
